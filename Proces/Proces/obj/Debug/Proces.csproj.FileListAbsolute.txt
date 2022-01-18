@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\Proces\Proces\bin\Debug\Proces.exe.config
+C:\Users\ucenik\source\repos\Proces\Proces\bin\Debug\Proces.exe
+C:\Users\ucenik\source\repos\Proces\Proces\bin\Debug\Proces.pdb
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.Form1.resources
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.exe
+C:\Users\ucenik\source\repos\Proces\Proces\obj\Debug\Proces.pdb
